@@ -1,0 +1,8 @@
+.venv/
+server/server/__pycache__
+server/users/__pycache__
+server/posts/__pycache__
+server/media/posts
+
+
+
