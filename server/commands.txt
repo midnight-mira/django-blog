@@ -1,0 +1,9 @@
+curl -X POST -d "client_id=nC5pv9VQXQXpPvTHChBhszwZ4N66jOnm1lgja1Y1&client_secret=xXVBaZEGu91hrGKTJUhlVRZ0yFD8XLIgIxxihdgCcdvaSOsnCtozvecyRx04AszZXdUod9oTW7mmab0id4MsqC8ONqGwtduLENXqHFnhuGs4xPVTknHdwoRFnv2Afrys=&grant_type=password&username=Amira&password=26240406" http://localhost:8000/auth/token
+
+client_id = Ny3eSiP2MzEzugn2TozkRWjLB7Rd2xLU7ETENPhf
+client_secret fsiRJsEQYUrNPCadV2SCbW8GsUvD37JN9w8F3U5uvfsTK17XIKuXXrvCDeeqeqqPXDfwvOwjNnklj0qrk6zyBeayzDEj1R8ye7DgrjzfTYrT3UeJT3xpuN981YNSTWPf
+
+curl -X POST -d "client_id=Ny3eSiP2MzEzugn2TozkRWjLB7Rd2xLU7ETENPhf&client_secret=fsiRJsEQYUrNPCadV2SCbW8GsUvD37JN9w8F3U5uvfsTK17XIKuXXrvCDeeqeqqPXDfwvOwjNnklj0qrk6zyBeayzDEj1R8ye7DgrjzfTYrT3UeJT3xpuN981YNSTWPf&grant_type=password&username=amirashaikh2406@gmail.com&password=26240406" http://localhost:8000/auth/token
+
+django app command 
+django-admin startapp posts

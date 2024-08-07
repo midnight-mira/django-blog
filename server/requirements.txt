@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-cors-headers
+psycopg2
+django-taggit
+drf_social_oauth2==3.1.0
+pillow
+
+
+
